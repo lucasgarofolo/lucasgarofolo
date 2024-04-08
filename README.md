@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas Garofolo</h1>
-<h3 align="center">Earth System Science DsC at PGCST - INPE. I'm IT Instructor at SENAI 390 - Cruzeiro, SP. Interested in artificial intelligence, machine learning, large language models, data science and analyst and modelling processes.</h3>
+<h1 align="left">Hi 👋, I'm Lucas Garofolo</h1> <br/>
+<h3 align="left">Earth System Science DsC at PGCST - INPE. I'm IT Instructor at SENAI 390 - Cruzeiro, SP. Interested in artificial intelligence, machine learning, large language models, data science and analyst and modelling processes.</h3>
 
 - 🔭 I’m currently working on [SENAIGPT390](https://github.com/lucasgarofolo/SENAIGPT390)
 
