@@ -19,7 +19,7 @@
 <a href="https://twitter.com/lucasgarofolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucasgarofolo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucas-garofolo-94b8bb6a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-garofolo-94b8bb6a" height="30" width="40" /></a>
 <a href="https://instagram.com/lucasgarofolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasgarofolo" height="30" width="40" /></a>
-<a href="http://lattes.cnpq.br/0497974965413750" target="blank"><img align="center" src="https://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZCFIFqqAJqmLJU5gnwsdASaEkulPMEs2vvbdc1nuDzQ&s" height="30" width="40" /> </a>
+<a href="http://lattes.cnpq.br/0497974965413750" target="blank"><img align="center" src="https://ppghp.unespar.edu.br/imagens/plataforma-lattes-logo.jpg/@@images/e29e9c29-a848-4a8f-a2a5-c16b980326ae.jpeg" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
