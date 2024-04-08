@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasgarofolo?tab=repositories](https://github.com/lucasgarofolo?tab=repositories)
 
-- 💬 Ask me about **fortran, python, data science**
+- 💬 Ask me about **fortran, python, data science, artificial intelligence**
 
 - 📫 How to reach me **lucas.garofolo@gmail.com**
 
