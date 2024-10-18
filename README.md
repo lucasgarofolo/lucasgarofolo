@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on [SENAIGPT390](https://github.com/lucasgarofolo/SENAIGPT390)
 
-- 🌱 I’m currently learning **LLM's, OpenAI + LangChain + Pinecone, ChatBots**
+- 🌱 I’m currently learning **ChatBots, Product Design and Branding**
 
-- 👯 I’m looking to collaborate on **neognoses**
+- 👯 I’m looking to collaborate on **blooming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasgarofolo?tab=repositories](https://github.com/lucasgarofolo?tab=repositories)
 
-- 💬 Ask me about **fortran, python, data science, artificial intelligence**
+- 💬 Ask me about **chatbots, artificial intelligence, webdesign, fortran, python**
 
 - 📫 How to reach me **lucas.garofolo@gmail.com**
 
