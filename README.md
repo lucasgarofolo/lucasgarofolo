@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasgarofolo?tab=repositories](https://github.com/lucasgarofolo?tab=repositories)
 
-- 💬 Ask me about **chatbots, artificial intelligence, webdesign, fortran, python**
+- 💬 Ask me about **chatbots, artificial intelligence, design, vibecoding**
 
 - 📫 How to reach me **lucas.garofolo@gmail.com**
 
