@@ -2,15 +2,15 @@
 <h3 align="left">Earth System Science DsC at PGCST - INPE. I'm IT Instructor at SENAI 390 - Cruzeiro, SP. <br/> 
   Interested in artificial intelligence, machine learning, large language models, data science and analyst and modelling processes.</h3>
 
-- 🔭 I’m currently working on [SENAIGPT390](https://github.com/lucasgarofolo/SENAIGPT390)
+- 🔭 I’m currently working on [Levanta!](https://github.com/lucasgarofolo/SENAIGPT390)
 
-- 🌱 I’m currently learning **ChatBots, Product Design and Branding**
+- 🌱 I’m currently learning **Product Design**
 
-- 👯 I’m looking to collaborate on **blooming**
+- 👯 I’m looking to collaborate on **botgpt**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucasgarofolo?tab=repositories](https://github.com/lucasgarofolo?tab=repositories)
 
-- 💬 Ask me about **chatbots, artificial intelligence, design, vibecoding**
+- 💬 Ask me about **product design, chatbots, ai**
 
 - 📫 How to reach me **lucas.garofolo@gmail.com**
 
