@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lucas Garofolo</h1> <br/>
+<h1 align="left">Hi, I'm Lucas Garofolo</h1> <br/>
 <h3 align="left">Earth System Science DsC at PGCST - INPE. I'm IT Instructor at SENAI 390 - Cruzeiro, SP. <br/> 
   Interested in artificial intelligence, machine learning, large language models, data science and analyst and modelling processes.</h3>
 
